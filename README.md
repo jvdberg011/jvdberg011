@@ -1,4 +1,3 @@
-
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
 I am **Jesse Van Den Berg**, a Cyber Security Engineer, who devoted to the development of his craft.   I am a quick learner and passionate about new projects and ideas, especially those from the open-source community.
 
