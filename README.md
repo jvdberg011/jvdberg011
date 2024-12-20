@@ -40,6 +40,7 @@ My primary hobbies are:
 
 - [ ] Document SIEM query syntax (ongoing effort).
 - [ ] Import [LogScale](https://docs.google.com/document/d/1f1gnw5CCA4k9V7dtU5Yuodd4ebebvn9xjtsKaPBsmww/edit?pli=1&tab=t.0#heading=h.l06hwq6p0rbv) SIEM query syntax.
+- [ ] Import [Splunk](https://docs.google.com/document/d/1_A5lhsdl47BtM25aXsL417eIwEN0sh2hSQkutRztZzg/edit?pli=1&tab=t.0) SIEM query syntax, credit to Jeremy Wiley.
 - [ ] Document SIEM dashboards (ongoing effort).
 - [ ] Deploy Humio on my HomeLab.
 - [ ] Deploy an [Elastic, Logstash, Kibana (ELK) stack](https://www.elastic.co/) on my HomeLab.
