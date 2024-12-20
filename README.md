@@ -22,6 +22,11 @@ My primary hobbies are:
 ![Splunk](https://img.shields.io/badge/Splunk-brightgreen?style=for-the-badge&logo=splunk)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Virus Total](https://img.shields.io/badge/Virus%20Total-%23394EFF?style=for-the-badge&logo=VirusTotal)
+![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 
 ⚙️ Servers
 
@@ -33,15 +38,20 @@ My primary hobbies are:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ProxMox](https://img.shields.io/badge/Proxmox-%23e57000?style=for-the-badge&logo=proxmox&logoColor=black)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 <br>
 
-## ⚙️ Project Ideas for HomeLab
+## ⚙️ Project Ideas for GitHub/HomeLab
 
 - [ ] Document SIEM query syntax (ongoing effort).
 - [ ] Import [LogScale](https://docs.google.com/document/d/1f1gnw5CCA4k9V7dtU5Yuodd4ebebvn9xjtsKaPBsmww/edit?pli=1&tab=t.0#heading=h.l06hwq6p0rbv) SIEM query syntax.
 - [ ] Import [Splunk](https://docs.google.com/document/d/1_A5lhsdl47BtM25aXsL417eIwEN0sh2hSQkutRztZzg/edit?pli=1&tab=t.0) SIEM query syntax, credit to Jeremy Wiley.
 - [ ] Document SIEM dashboards (ongoing effort).
+- [ ] Document HomeLab build (IT Stack, Server).
+- [ ] Document Gaming PC build.
 - [ ] Deploy Humio on my HomeLab.
 - [ ] Deploy an [Elastic, Logstash, Kibana (ELK) stack](https://www.elastic.co/) on my HomeLab.
 - [ ] Deploy [Gravwell](https://www.gravwell.io/) on my HomeLab.
@@ -51,6 +61,9 @@ My primary hobbies are:
 - [ ] Deploy [PiHole](https://pi-hole.net/).
 - [ ] Deploy [Gogs](https://gogs.io/).
 - [ ] Deploy [QRadar](https://www.ibm.com/products/qradar-siem).
+- [ ] Deploy [Plex Media Server](https://www.plex.tv/).
+- [ ] Deploy [OPNSense](https://opnsense.org/).
+- [ ] Deploy [PFSense](https://www.pfsense.org/).
 - [ ] Create guides for installing Splunk, Humio, Elastic and others on a HomeLab.
 - [ ] Develop Threat Hunting based on inspiration from [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/index.html).
 - [ ] Develop Splunk dashboard inspired by [Splunk Security Posture](https://corelight.com/hs-fs/hubfs/images/screens/splunk-security-posture-with-wrapper.png?width=900&height=702&name=splunk-security-posture-with-wrapper.png).
