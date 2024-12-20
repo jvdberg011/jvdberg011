@@ -38,13 +38,16 @@ My primary hobbies are:
 
 ## ⚙️ Project Ideas for HomeLab
 
+- [ ] Document SIEM query syntax (ongoing effort).
+- [ ] Document SIEM dashboards (ongoing effort).
 - [ ] Deploy Humio on my HomeLab.
-- [ ] Deploy an [Elastic stack](https://www.elastic.co/) on my HomeLab.
+- [ ] Deploy an [Elastic, Logstash, Kibana (ELK) stack](https://www.elastic.co/) on my HomeLab.
 - [ ] Deploy [Gravwell](https://www.gravwell.io/) on my HomeLab.
 - [ ] Deploy [Grafana](https://grafana.com/) on my HomeLab.
 - [ ] Deploy [Exabeam Siem](https://www.exabeam.com/capabilities/siem/).
 - [ ] Deploy [Open EDR](https://www.openedr.com/).
 - [ ] Deploy [PiHole](https://pi-hole.net/).
 - [ ] Deploy [Gogs](https://gogs.io/).
+- [ ] Deploy [QRadar](https://www.ibm.com/products/qradar-siem).
 - [ ] Create guides for installing Splunk, Humio, Elastic and others on a HomeLab.
 - [ ] Python script to install recommended Linux tools onto a base image (e.g. nano, htop, etc.) to accelerate deployment of VMs within a HomeLab.
