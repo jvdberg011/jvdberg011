@@ -59,3 +59,5 @@ My primary hobbies are:
 ## Resources
 
 - [GitHub Mardown Basic Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+- [Shields.io Static Badge Guide](https://shields.io/badges/static-badge)
+- [Simple Icons](https://simpleicons.org/)
