@@ -39,6 +39,7 @@ My primary hobbies are:
 ## ⚙️ Project Ideas for HomeLab
 
 - [ ] Document SIEM query syntax (ongoing effort).
+- [ ] Import [LogScale](https://docs.google.com/document/d/1f1gnw5CCA4k9V7dtU5Yuodd4ebebvn9xjtsKaPBsmww/edit?pli=1&tab=t.0#heading=h.l06hwq6p0rbv) SIEM query syntax.
 - [ ] Document SIEM dashboards (ongoing effort).
 - [ ] Deploy Humio on my HomeLab.
 - [ ] Deploy an [Elastic, Logstash, Kibana (ELK) stack](https://www.elastic.co/) on my HomeLab.
@@ -53,3 +54,7 @@ My primary hobbies are:
 - [ ] Develop Threat Hunting based on inspiration from [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/index.html).
 - [ ] Develop Splunk dashboard inspired by [Splunk Security Posture](https://corelight.com/hs-fs/hubfs/images/screens/splunk-security-posture-with-wrapper.png?width=900&height=702&name=splunk-security-posture-with-wrapper.png).
 - [ ] Python script to install recommended Linux tools onto a base image (e.g. nano, htop, etc.) to accelerate deployment of VMs within a HomeLab.
+
+## Resources
+
+- [GitHub Mardown Basic Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
