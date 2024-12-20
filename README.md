@@ -33,3 +33,18 @@ My primary hobbies are:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+
+<br>
+
+## Project Ideas for HomeLab
+
+- [ ] Deploy Humio on my HomeLab.
+- [ ] Deploy an [Elastic stack](https://www.elastic.co/) on my HomeLab.
+- [ ] Deploy [Gravwell](https://www.gravwell.io/) on my HomeLab.
+- [ ] Deploy [Grafana](https://grafana.com/) on my HomeLab.
+- [ ] Deploy [Exabeam Siem](https://www.exabeam.com/capabilities/siem/).
+- [ ] Deploy [Open EDR](https://www.openedr.com/).
+- [ ] Deploy [PiHole](https://pi-hole.net/).
+- [ ] Deploy [Gogs](https://gogs.io/).
+- [ ] Create guides for installing Splunk, Humio, Elastic and others on a HomeLab.
+- [ ] Python script to install recommended Linux tools onto a base image (e.g. nano, htop, etc.) to accelerate deployment of VMs within a HomeLab.
