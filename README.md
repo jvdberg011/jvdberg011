@@ -36,7 +36,7 @@ My primary hobbies are:
 
 <br>
 
-## Project Ideas for HomeLab
+## ⚙️ Project Ideas for HomeLab
 
 - [ ] Deploy Humio on my HomeLab.
 - [ ] Deploy an [Elastic stack](https://www.elastic.co/) on my HomeLab.
