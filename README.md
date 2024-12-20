@@ -50,4 +50,6 @@ My primary hobbies are:
 - [ ] Deploy [Gogs](https://gogs.io/).
 - [ ] Deploy [QRadar](https://www.ibm.com/products/qradar-siem).
 - [ ] Create guides for installing Splunk, Humio, Elastic and others on a HomeLab.
+- [ ] Develop Threat Hunting based on inspiration from [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/index.html).
+- [ ] Develop Splunk dashboard inspired by [Splunk Security Posture](https://corelight.com/hs-fs/hubfs/images/screens/splunk-security-posture-with-wrapper.png?width=900&height=702&name=splunk-security-posture-with-wrapper.png).
 - [ ] Python script to install recommended Linux tools onto a base image (e.g. nano, htop, etc.) to accelerate deployment of VMs within a HomeLab.
